@@ -1,0 +1,13 @@
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\bin\Debug\DichotomyMethodv2.exe.config
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\bin\Debug\DichotomyMethodv2.exe
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\bin\Debug\DichotomyMethodv2.pdb
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.csproj.AssemblyReference.cache
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.Form1.resources
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.Properties.Resources.resources
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.csproj.GenerateResource.cache
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.csproj.CopyComplete
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.exe
+C:\Users\Степан\Desktop\main\codes\DichotomyMethodv2\DichotomyMethodv2\obj\Debug\DichotomyMethodv2.pdb
